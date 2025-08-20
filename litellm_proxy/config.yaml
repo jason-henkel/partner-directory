@@ -1,0 +1,19 @@
+litellm_settings:
+  log_level: INFO
+  timeout: 120
+  num_retries: 2
+  drop_params: true
+
+# Define the models you want to access through the proxy.
+# The proxy will forward to OpenAI using the OPENAI_API_KEY env var.
+model_list:
+  - model_name: gpt-4o
+    litellm_params:
+      model: openai/gpt-4o
+      api_key: ${OPENAI_API_KEY}
+  - model_name: gpt-4o-mini
+    litellm_params:
+      model: openai/gpt-4o-mini
+      api_key: ${OPENAI_API_KEY}
+
+

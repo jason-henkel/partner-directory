@@ -1,0 +1,2452 @@
+[
+  {
+    "name": "Designless",
+    "slug": "designless",
+    "source": "lindy",
+    "url": "http://localhost:3010/designless",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\designless.png"
+  },
+  {
+    "name": "Fermi Systems PTY LTD",
+    "slug": "fermi-systems-pty-ltd",
+    "source": "lindy",
+    "url": "http://localhost:3010/fermi-systems-pty-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\fermi-systems-pty-ltd.png"
+  },
+  {
+    "name": "AI GPO",
+    "slug": "ai-gpo",
+    "source": "lindy",
+    "url": "http://localhost:3010/ai-gpo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ai-gpo.png"
+  },
+  {
+    "name": "Opsurge AI",
+    "slug": "opsurge-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/opsurge-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\opsurge-ai.png"
+  },
+  {
+    "name": "DOYB Technical Solutions, Inc.",
+    "slug": "doyb-technical-solutions-inc",
+    "source": "lindy",
+    "url": "http://localhost:3010/doyb-technical-solutions-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\doyb-technical-solutions-inc.png"
+  },
+  {
+    "name": "Lift Off Automation",
+    "slug": "lift-off-automation",
+    "source": "lindy",
+    "url": "http://localhost:3010/lift-off-automation",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\lift-off-automation.png"
+  },
+  {
+    "name": "Free Energy",
+    "slug": "free-energy",
+    "source": "lindy",
+    "url": "http://localhost:3010/free-energy",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\free-energy.png"
+  },
+  {
+    "name": "Optimo IT",
+    "slug": "optimo-it",
+    "source": "lindy",
+    "url": "http://localhost:3010/optimo-it",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\optimo-it.png"
+  },
+  {
+    "name": "InsurOS",
+    "slug": "insuros",
+    "source": "lindy",
+    "url": "http://localhost:3010/insuros",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\insuros.png"
+  },
+  {
+    "name": "i3visionaries",
+    "slug": "i3visionaries",
+    "source": "lindy",
+    "url": "http://localhost:3010/i3visionaries",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\i3visionaries.png"
+  },
+  {
+    "name": "Quietly Smart",
+    "slug": "quietly-smart",
+    "source": "lindy",
+    "url": "http://localhost:3010/quietly-smart",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\quietly-smart.png"
+  },
+  {
+    "name": "FlowVeo",
+    "slug": "flowveo",
+    "source": "lindy",
+    "url": "http://localhost:3010/flowveo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\flowveo.png"
+  },
+  {
+    "name": "HPPY Agency",
+    "slug": "hppy-agency",
+    "source": "lindy",
+    "url": "http://localhost:3010/hppy-agency",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\hppy-agency.png"
+  },
+  {
+    "name": "CRAFT PARK media",
+    "slug": "craft-park-media",
+    "source": "lindy",
+    "url": "http://localhost:3010/craft-park-media",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\craft-park-media.png"
+  },
+  {
+    "name": "Prime Integrate",
+    "slug": "prime-integrate",
+    "source": "lindy",
+    "url": "http://localhost:3010/prime-integrate",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\prime-integrate.png"
+  },
+  {
+    "name": "AI Agentship",
+    "slug": "ai-agentship",
+    "source": "lindy",
+    "url": "http://localhost:3010/ai-agentship",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ai-agentship.png"
+  },
+  {
+    "name": "Growwstacks Automation Solutions",
+    "slug": "growwstacks-automation-solutions",
+    "source": "lindy",
+    "url": "http://localhost:3010/growwstacks-automation-solutions",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\growwstacks-automation-solutions.png"
+  },
+  {
+    "name": "Marketing Automation Architects",
+    "slug": "marketing-automation-architects",
+    "source": "lindy",
+    "url": "http://localhost:3010/marketing-automation-architects",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\marketing-automation-architects.png"
+  },
+  {
+    "name": "Adverleads",
+    "slug": "adverleads",
+    "source": "lindy",
+    "url": "http://localhost:3010/adverleads",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\adverleads.png"
+  },
+  {
+    "name": "MB Erobotai",
+    "slug": "mb-erobotai",
+    "source": "lindy",
+    "url": "http://localhost:3010/mb-erobotai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\mb-erobotai.png"
+  },
+  {
+    "name": "Meanify",
+    "slug": "meanify",
+    "source": "lindy",
+    "url": "http://localhost:3010/meanify",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\meanify.png"
+  },
+  {
+    "name": "Kimberly Charron, Certified Online Business Manager",
+    "slug": "kimberly-charron-certified-online-business-manager",
+    "source": "lindy",
+    "url": "http://localhost:3010/kimberly-charron-certified-online-business-manager",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\kimberly-charron-certified-online-business-manager.png"
+  },
+  {
+    "name": "HeyBe AI",
+    "slug": "heybe-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/heybe-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\heybe-ai.png"
+  },
+  {
+    "name": "Aigent Edge",
+    "slug": "aigent-edge",
+    "source": "lindy",
+    "url": "http://localhost:3010/aigent-edge",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\aigent-edge.png"
+  },
+  {
+    "name": "LoftyHire",
+    "slug": "loftyhire",
+    "source": "lindy",
+    "url": "http://localhost:3010/loftyhire",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\loftyhire.png"
+  },
+  {
+    "name": "Society Metrics",
+    "slug": "society-metrics",
+    "source": "lindy",
+    "url": "http://localhost:3010/society-metrics",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\society-metrics.png"
+  },
+  {
+    "name": "ActionLabs AI",
+    "slug": "actionlabs-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/actionlabs-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\actionlabs-ai.png"
+  },
+  {
+    "name": "Sunnyverse",
+    "slug": "sunnyverse",
+    "source": "lindy",
+    "url": "http://localhost:3010/sunnyverse",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sunnyverse.png"
+  },
+  {
+    "name": "DashOps",
+    "slug": "dashops",
+    "source": "lindy",
+    "url": "http://localhost:3010/dashops",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\dashops.png"
+  },
+  {
+    "name": "IFG Group",
+    "slug": "ifg-group",
+    "source": "lindy",
+    "url": "http://localhost:3010/ifg-group",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ifg-group.png"
+  },
+  {
+    "name": "The Growth Partner",
+    "slug": "the-growth-partner",
+    "source": "lindy",
+    "url": "http://localhost:3010/the-growth-partner",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\the-growth-partner.png"
+  },
+  {
+    "name": "Data Interactive",
+    "slug": "data-interactive",
+    "source": "lindy",
+    "url": "http://localhost:3010/data-interactive",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\data-interactive.png"
+  },
+  {
+    "name": "Tech Tap Solutions",
+    "slug": "tech-tap-solutions",
+    "source": "lindy",
+    "url": "http://localhost:3010/tech-tap-solutions",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\tech-tap-solutions.png"
+  },
+  {
+    "name": "Productized",
+    "slug": "productized",
+    "source": "lindy",
+    "url": "http://localhost:3010/productized",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\productized.png"
+  },
+  {
+    "name": "AI Smart Process",
+    "slug": "ai-smart-process",
+    "source": "lindy",
+    "url": "http://localhost:3010/ai-smart-process",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ai-smart-process.png"
+  },
+  {
+    "name": "Top of Mind Technologies",
+    "slug": "top-of-mind-technologies",
+    "source": "lindy",
+    "url": "http://localhost:3010/top-of-mind-technologies",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\top-of-mind-technologies.png"
+  },
+  {
+    "name": "Convoboss",
+    "slug": "convoboss",
+    "source": "lindy",
+    "url": "http://localhost:3010/convoboss",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\convoboss.png"
+  },
+  {
+    "name": "OneSolve.io",
+    "slug": "onesolveio",
+    "source": "lindy",
+    "url": "http://localhost:3010/onesolveio",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\onesolveio.png"
+  },
+  {
+    "name": "Implement",
+    "slug": "implement",
+    "source": "lindy",
+    "url": "http://localhost:3010/implement",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\implement.png"
+  },
+  {
+    "name": "Apex Labs AI",
+    "slug": "apex-labs-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/apex-labs-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\apex-labs-ai.png"
+  },
+  {
+    "name": "ProjectGRID",
+    "slug": "projectgrid",
+    "source": "lindy",
+    "url": "http://localhost:3010/projectgrid",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\projectgrid.png"
+  },
+  {
+    "name": "MVP Ventures",
+    "slug": "mvp-ventures",
+    "source": "lindy",
+    "url": "http://localhost:3010/mvp-ventures",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\mvp-ventures.png"
+  },
+  {
+    "name": "Bergamote inc.",
+    "slug": "bergamote-inc",
+    "source": "lindy",
+    "url": "http://localhost:3010/bergamote-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\bergamote-inc.png"
+  },
+  {
+    "name": "Futureu Strategy Group",
+    "slug": "futureu-strategy-group",
+    "source": "lindy",
+    "url": "http://localhost:3010/futureu-strategy-group",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\futureu-strategy-group.png"
+  },
+  {
+    "name": "Atlas Unchained Business Development",
+    "slug": "atlas-unchained-business-development",
+    "source": "lindy",
+    "url": "http://localhost:3010/atlas-unchained-business-development",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\atlas-unchained-business-development.png"
+  },
+  {
+    "name": "Adyntel",
+    "slug": "adyntel",
+    "source": "lindy",
+    "url": "http://localhost:3010/adyntel",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\adyntel.png"
+  },
+  {
+    "name": "Lambda Marketing Digital",
+    "slug": "lambda-marketing-digital",
+    "source": "lindy",
+    "url": "http://localhost:3010/lambda-marketing-digital",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\lambda-marketing-digital.png"
+  },
+  {
+    "name": "Metaloss Inc.",
+    "slug": "metaloss-inc",
+    "source": "lindy",
+    "url": "http://localhost:3010/metaloss-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\metaloss-inc.png"
+  },
+  {
+    "name": "VS Studio",
+    "slug": "vs-studio",
+    "source": "lindy",
+    "url": "http://localhost:3010/vs-studio",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\vs-studio.png"
+  },
+  {
+    "name": "Sunrise Leads",
+    "slug": "sunrise-leads",
+    "source": "lindy",
+    "url": "http://localhost:3010/sunrise-leads",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sunrise-leads.png"
+  },
+  {
+    "name": "RAY",
+    "slug": "ray",
+    "source": "lindy",
+    "url": "http://localhost:3010/ray",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ray.png"
+  },
+  {
+    "name": "Digital Frontier Company",
+    "slug": "digital-frontier-company",
+    "source": "lindy",
+    "url": "http://localhost:3010/digital-frontier-company",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\digital-frontier-company.png"
+  },
+  {
+    "name": "Phlo",
+    "slug": "phlo",
+    "source": "lindy",
+    "url": "http://localhost:3010/phlo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\phlo.png"
+  },
+  {
+    "name": "Rubbiq",
+    "slug": "rubbiq",
+    "source": "lindy",
+    "url": "http://localhost:3010/rubbiq",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\rubbiq.png"
+  },
+  {
+    "name": "Stay In Your Lane",
+    "slug": "stay-in-your-lane",
+    "source": "lindy",
+    "url": "http://localhost:3010/stay-in-your-lane",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\stay-in-your-lane.png"
+  },
+  {
+    "name": "Smart Strategy",
+    "slug": "smart-strategy",
+    "source": "lindy",
+    "url": "http://localhost:3010/smart-strategy",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\smart-strategy.png"
+  },
+  {
+    "name": "In Bot We Trust",
+    "slug": "in-bot-we-trust",
+    "source": "lindy",
+    "url": "http://localhost:3010/in-bot-we-trust",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\in-bot-we-trust.png"
+  },
+  {
+    "name": "New Tide Media",
+    "slug": "new-tide-media",
+    "source": "lindy",
+    "url": "http://localhost:3010/new-tide-media",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\new-tide-media.png"
+  },
+  {
+    "name": "Top Signal AI",
+    "slug": "top-signal-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/top-signal-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\top-signal-ai.png"
+  },
+  {
+    "name": "Data Agent",
+    "slug": "data-agent",
+    "source": "lindy",
+    "url": "http://localhost:3010/data-agent",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\data-agent.png"
+  },
+  {
+    "name": "Prolific Digital",
+    "slug": "prolific-digital",
+    "source": "lindy",
+    "url": "http://localhost:3010/prolific-digital",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\prolific-digital.png"
+  },
+  {
+    "name": "Hilltop Operations + Consulting",
+    "slug": "hilltop-operations-consulting",
+    "source": "lindy",
+    "url": "http://localhost:3010/hilltop-operations-consulting",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\hilltop-operations-consulting.png"
+  },
+  {
+    "name": "Get AI Help",
+    "slug": "get-ai-help",
+    "source": "lindy",
+    "url": "http://localhost:3010/get-ai-help",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\get-ai-help.png"
+  },
+  {
+    "name": "Bildung Data",
+    "slug": "bildung-data",
+    "source": "lindy",
+    "url": "http://localhost:3010/bildung-data",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\bildung-data.png"
+  },
+  {
+    "name": "Yander Labs",
+    "slug": "yander-labs",
+    "source": "lindy",
+    "url": "http://localhost:3010/yander-labs",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\yander-labs.png"
+  },
+  {
+    "name": "InAir",
+    "slug": "inair",
+    "source": "lindy",
+    "url": "http://localhost:3010/inair",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\inair.png"
+  },
+  {
+    "name": "Mother Gaia",
+    "slug": "mother-gaia",
+    "source": "lindy",
+    "url": "http://localhost:3010/mother-gaia",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\mother-gaia.png"
+  },
+  {
+    "name": "Flowmondo",
+    "slug": "flowmondo",
+    "source": "lindy",
+    "url": "http://localhost:3010/flowmondo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\flowmondo.png"
+  },
+  {
+    "name": "Strawpath",
+    "slug": "strawpath",
+    "source": "lindy",
+    "url": "http://localhost:3010/strawpath",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\strawpath.png"
+  },
+  {
+    "name": "Kairos Advisers",
+    "slug": "kairos-advisers",
+    "source": "lindy",
+    "url": "http://localhost:3010/kairos-advisers",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\kairos-advisers.png"
+  },
+  {
+    "name": "YesMore Drinks Marketing Agency",
+    "slug": "yesmore-drinks-marketing-agency",
+    "source": "lindy",
+    "url": "http://localhost:3010/yesmore-drinks-marketing-agency",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\yesmore-drinks-marketing-agency.png"
+  },
+  {
+    "name": "White Label Ad Factory",
+    "slug": "white-label-ad-factory",
+    "source": "lindy",
+    "url": "http://localhost:3010/white-label-ad-factory",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\white-label-ad-factory.png"
+  },
+  {
+    "name": "GrantBot",
+    "slug": "grantbot",
+    "source": "lindy",
+    "url": "http://localhost:3010/grantbot",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\grantbot.png"
+  },
+  {
+    "name": "Vela Travel",
+    "slug": "vela-travel",
+    "source": "lindy",
+    "url": "http://localhost:3010/vela-travel",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\vela-travel.png"
+  },
+  {
+    "name": "Agor Integration Consulting",
+    "slug": "agor-integration-consulting",
+    "source": "lindy",
+    "url": "http://localhost:3010/agor-integration-consulting",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\agor-integration-consulting.png"
+  },
+  {
+    "name": "Alessia Pandolfi - Tech Expert",
+    "slug": "alessia-pandolfi-tech-expert",
+    "source": "lindy",
+    "url": "http://localhost:3010/alessia-pandolfi-tech-expert",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\alessia-pandolfi-tech-expert.png"
+  },
+  {
+    "name": "That Automation Agency",
+    "slug": "that-automation-agency",
+    "source": "lindy",
+    "url": "http://localhost:3010/that-automation-agency",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\that-automation-agency.png"
+  },
+  {
+    "name": "Lumio AI",
+    "slug": "lumio-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/lumio-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\lumio-ai.png"
+  },
+  {
+    "name": "KLOUDED, LLC",
+    "slug": "klouded-llc",
+    "source": "lindy",
+    "url": "http://localhost:3010/klouded-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\klouded-llc.png"
+  },
+  {
+    "name": "Hexahash Technologies Private Ltd",
+    "slug": "hexahash-technologies-private-ltd",
+    "source": "lindy",
+    "url": "http://localhost:3010/hexahash-technologies-private-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\hexahash-technologies-private-ltd.png"
+  },
+  {
+    "name": "Jimmy Labs",
+    "slug": "jimmy-labs",
+    "source": "lindy",
+    "url": "http://localhost:3010/jimmy-labs",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\jimmy-labs.png"
+  },
+  {
+    "name": "Maximize AI",
+    "slug": "maximize-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/maximize-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\maximize-ai.png"
+  },
+  {
+    "name": "Sadalsuud Media Tech",
+    "slug": "sadalsuud-media-tech",
+    "source": "lindy",
+    "url": "http://localhost:3010/sadalsuud-media-tech",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sadalsuud-media-tech.png"
+  },
+  {
+    "name": "Smooth Gruppen AS",
+    "slug": "smooth-gruppen-as",
+    "source": "lindy",
+    "url": "http://localhost:3010/smooth-gruppen-as",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\smooth-gruppen-as.png"
+  },
+  {
+    "name": "Version 6 LLC",
+    "slug": "version-6-llc",
+    "source": "lindy",
+    "url": "http://localhost:3010/version-6-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\version-6-llc.png"
+  },
+  {
+    "name": "efora io",
+    "slug": "efora-io",
+    "source": "lindy",
+    "url": "http://localhost:3010/efora-io",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\efora-io.png"
+  },
+  {
+    "name": "Resultant AI",
+    "slug": "resultant-ai",
+    "source": "lindy",
+    "url": "http://localhost:3010/resultant-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\resultant-ai.png"
+  },
+  {
+    "name": "Mode Lab",
+    "slug": "mode-lab",
+    "source": "lindy",
+    "url": "http://localhost:3010/mode-lab",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\mode-lab.png"
+  },
+  {
+    "name": "Sewn.ai",
+    "slug": "sewnai",
+    "source": "lindy",
+    "url": "http://localhost:3010/sewnai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sewnai.png"
+  },
+  {
+    "name": "Vu Ai Ltd",
+    "slug": "vu-ai-ltd",
+    "source": "lindy",
+    "url": "http://localhost:3010/vu-ai-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\vu-ai-ltd.png"
+  },
+  {
+    "name": "The Digital Edit, LLC",
+    "slug": "the-digital-edit-llc",
+    "source": "lindy",
+    "url": "http://localhost:3010/the-digital-edit-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\the-digital-edit-llc.png"
+  },
+  {
+    "name": "Special Agent",
+    "slug": "special-agent",
+    "source": "lindy",
+    "url": "http://localhost:3010/special-agent",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\special-agent.png"
+  },
+  {
+    "name": "Msquare Automation Solutions Pvt Ltd.",
+    "slug": "msquare-automation-solutions-pvt-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/msquare-automation-solutions-pvt-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\msquare-automation-solutions-pvt-ltd.png"
+  },
+  {
+    "name": "Blue Precision Technologies Ltd",
+    "slug": "blue-precision-technologies-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/blue-precision-technologies-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\blue-precision-technologies-ltd.png"
+  },
+  {
+    "name": "Axanexa Llc",
+    "slug": "axanexa-llc",
+    "source": "make",
+    "url": "http://localhost:3010/axanexa-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\axanexa-llc.png"
+  },
+  {
+    "name": "Callbox",
+    "slug": "callbox",
+    "source": "make",
+    "url": "http://localhost:3010/callbox",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\callbox.png"
+  },
+  {
+    "name": "Work Perfect Group Pty Ltd",
+    "slug": "work-perfect-group-pty-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/work-perfect-group-pty-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\work-perfect-group-pty-ltd.png"
+  },
+  {
+    "name": "Codex Solutions International",
+    "slug": "codex-solutions-international",
+    "source": "make",
+    "url": "http://localhost:3010/codex-solutions-international",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\codex-solutions-international.png"
+  },
+  {
+    "name": "Connex Digital",
+    "slug": "connex-digital",
+    "source": "make",
+    "url": "http://localhost:3010/connex-digital",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\connex-digital.png"
+  },
+  {
+    "name": "Davame",
+    "slug": "davame",
+    "source": "make",
+    "url": "http://localhost:3010/davame",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\davame.png"
+  },
+  {
+    "name": "Value Added Tech",
+    "slug": "value-added-tech",
+    "source": "make",
+    "url": "http://localhost:3010/value-added-tech",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\value-added-tech.png"
+  },
+  {
+    "name": "Axe Automation",
+    "slug": "axe-automation",
+    "source": "make",
+    "url": "http://localhost:3010/axe-automation",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\axe-automation.png"
+  },
+  {
+    "name": "Lilian Sevoumian",
+    "slug": "lilian-sevoumian",
+    "source": "make",
+    "url": "http://localhost:3010/lilian-sevoumian",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\lilian-sevoumian.png"
+  },
+  {
+    "name": "Omnitas Consulting",
+    "slug": "omnitas-consulting",
+    "source": "make",
+    "url": "http://localhost:3010/omnitas-consulting",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\omnitas-consulting.png"
+  },
+  {
+    "name": "Lotic Digital, LLC",
+    "slug": "lotic-digital-llc",
+    "source": "make",
+    "url": "http://localhost:3010/lotic-digital-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\lotic-digital-llc.png"
+  },
+  {
+    "name": "Groww Stacks",
+    "slug": "groww-stacks",
+    "source": "make",
+    "url": "http://localhost:3010/groww-stacks",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\groww-stacks.png"
+  },
+  {
+    "name": "MAKEITFUTURE SRL",
+    "slug": "makeitfuture-srl",
+    "source": "make",
+    "url": "http://localhost:3010/makeitfuture-srl",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\makeitfuture-srl.png"
+  },
+  {
+    "name": "Maxmel Tech",
+    "slug": "maxmel-tech",
+    "source": "make",
+    "url": "http://localhost:3010/maxmel-tech",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\maxmel-tech.png"
+  },
+  {
+    "name": "Dataslice Llc",
+    "slug": "dataslice-llc",
+    "source": "make",
+    "url": "http://localhost:3010/dataslice-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\dataslice-llc.png"
+  },
+  {
+    "name": "Turnk",
+    "slug": "turnk",
+    "source": "make",
+    "url": "http://localhost:3010/turnk",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\turnk.png"
+  },
+  {
+    "name": "G&h Automation Services",
+    "slug": "g-and-h-automation-services",
+    "source": "make",
+    "url": "http://localhost:3010/g-and-h-automation-services",
+    "ok": false,
+    "status": 404,
+    "error": "name_not_visible",
+    "screenshot": "crawl_screenshots\\g-and-h-automation-services.png"
+  },
+  {
+    "name": "Begin Software",
+    "slug": "begin-software",
+    "source": "make",
+    "url": "http://localhost:3010/begin-software",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\begin-software.png"
+  },
+  {
+    "name": "The Catalysis Group Pty Ltd",
+    "slug": "the-catalysis-group-pty-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/the-catalysis-group-pty-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\the-catalysis-group-pty-ltd.png"
+  },
+  {
+    "name": "Arcus",
+    "slug": "arcus",
+    "source": "make",
+    "url": "http://localhost:3010/arcus",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\arcus.png"
+  },
+  {
+    "name": "Flowmondo",
+    "slug": "flowmondo",
+    "source": "make",
+    "url": "http://localhost:3010/flowmondo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\flowmondo.png"
+  },
+  {
+    "name": "UpScale Ninjas",
+    "slug": "upscale-ninjas",
+    "source": "make",
+    "url": "http://localhost:3010/upscale-ninjas",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\upscale-ninjas.png"
+  },
+  {
+    "name": "Synergetic GmbH",
+    "slug": "synergetic-gmbh",
+    "source": "make",
+    "url": "http://localhost:3010/synergetic-gmbh",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\synergetic-gmbh.png"
+  },
+  {
+    "name": "GUY MIZINSKI",
+    "slug": "guy-mizinski",
+    "source": "make",
+    "url": "http://localhost:3010/guy-mizinski",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\guy-mizinski.png"
+  },
+  {
+    "name": "Automation House sp. z o.o",
+    "slug": "automation-house-sp-z-oo",
+    "source": "make",
+    "url": "http://localhost:3010/automation-house-sp-z-oo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\automation-house-sp-z-oo.png"
+  },
+  {
+    "name": "Axome",
+    "slug": "axome",
+    "source": "make",
+    "url": "http://localhost:3010/axome",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\axome.png"
+  },
+  {
+    "name": "4 Spot Marketing",
+    "slug": "4-spot-marketing",
+    "source": "make",
+    "url": "http://localhost:3010/4-spot-marketing",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\4-spot-marketing.png"
+  },
+  {
+    "name": "ScottWorld",
+    "slug": "scottworld",
+    "source": "make",
+    "url": "http://localhost:3010/scottworld",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\scottworld.png"
+  },
+  {
+    "name": "BuildLab",
+    "slug": "buildlab",
+    "source": "make",
+    "url": "http://localhost:3010/buildlab",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\buildlab.png"
+  },
+  {
+    "name": "Workiflow",
+    "slug": "workiflow",
+    "source": "make",
+    "url": "http://localhost:3010/workiflow",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\workiflow.png"
+  },
+  {
+    "name": "ALEGRIA.TECH SAS",
+    "slug": "alegriatech-sas",
+    "source": "make",
+    "url": "http://localhost:3010/alegriatech-sas",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\alegriatech-sas.png"
+  },
+  {
+    "name": "Automaton",
+    "slug": "automaton",
+    "source": "make",
+    "url": "http://localhost:3010/automaton",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\automaton.png"
+  },
+  {
+    "name": "814 Media LLC",
+    "slug": "814-media-llc",
+    "source": "make",
+    "url": "http://localhost:3010/814-media-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\814-media-llc.png"
+  },
+  {
+    "name": "Tapauto Ltd",
+    "slug": "tapauto-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/tapauto-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\tapauto-ltd.png"
+  },
+  {
+    "name": "Byte Intelligence",
+    "slug": "byte-intelligence",
+    "source": "make",
+    "url": "http://localhost:3010/byte-intelligence",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\byte-intelligence.png"
+  },
+  {
+    "name": "Cadmonsystems",
+    "slug": "cadmonsystems",
+    "source": "make",
+    "url": "http://localhost:3010/cadmonsystems",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\cadmonsystems.png"
+  },
+  {
+    "name": "Wemakefuture",
+    "slug": "wemakefuture",
+    "source": "make",
+    "url": "http://localhost:3010/wemakefuture",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\wemakefuture.png"
+  },
+  {
+    "name": "Better Call So",
+    "slug": "better-call-so",
+    "source": "make",
+    "url": "http://localhost:3010/better-call-so",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\better-call-so.png"
+  },
+  {
+    "name": "Noa",
+    "slug": "noa",
+    "source": "make",
+    "url": "http://localhost:3010/noa",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\noa.png"
+  },
+  {
+    "name": "Automationprocess",
+    "slug": "automationprocess",
+    "source": "make",
+    "url": "http://localhost:3010/automationprocess",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\automationprocess.png"
+  },
+  {
+    "name": "Cloud Native Inc.",
+    "slug": "cloud-native-inc",
+    "source": "make",
+    "url": "http://localhost:3010/cloud-native-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\cloud-native-inc.png"
+  },
+  {
+    "name": "OMNIDEA SRL",
+    "slug": "omnidea-srl",
+    "source": "make",
+    "url": "http://localhost:3010/omnidea-srl",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\omnidea-srl.png"
+  },
+  {
+    "name": "Automations CLUB",
+    "slug": "automations-club",
+    "source": "make",
+    "url": "http://localhost:3010/automations-club",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\automations-club.png"
+  },
+  {
+    "name": "shifra",
+    "slug": "shifra",
+    "source": "make",
+    "url": "http://localhost:3010/shifra",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\shifra.png"
+  },
+  {
+    "name": "Wiseflow",
+    "slug": "wiseflow",
+    "source": "make",
+    "url": "http://localhost:3010/wiseflow",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\wiseflow.png"
+  },
+  {
+    "name": "Work Management Tools",
+    "slug": "work-management-tools",
+    "source": "make",
+    "url": "http://localhost:3010/work-management-tools",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\work-management-tools.png"
+  },
+  {
+    "name": "Avidly",
+    "slug": "avidly",
+    "source": "make",
+    "url": "http://localhost:3010/avidly",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\avidly.png"
+  },
+  {
+    "name": "Inovus",
+    "slug": "inovus",
+    "source": "make",
+    "url": "http://localhost:3010/inovus",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\inovus.png"
+  },
+  {
+    "name": "Flows Systems Aps",
+    "slug": "flows-systems-aps",
+    "source": "make",
+    "url": "http://localhost:3010/flows-systems-aps",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\flows-systems-aps.png"
+  },
+  {
+    "name": "PD-Experts GmbH",
+    "slug": "pd-experts-gmbh",
+    "source": "make",
+    "url": "http://localhost:3010/pd-experts-gmbh",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\pd-experts-gmbh.png"
+  },
+  {
+    "name": "The Monday Man",
+    "slug": "the-monday-man",
+    "source": "make",
+    "url": "http://localhost:3010/the-monday-man",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\the-monday-man.png"
+  },
+  {
+    "name": "Drew",
+    "slug": "drew",
+    "source": "make",
+    "url": "http://localhost:3010/drew",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\drew.png"
+  },
+  {
+    "name": "Zapwizards",
+    "slug": "zapwizards",
+    "source": "make",
+    "url": "http://localhost:3010/zapwizards",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\zapwizards.png"
+  },
+  {
+    "name": "Quitcode",
+    "slug": "quitcode",
+    "source": "make",
+    "url": "http://localhost:3010/quitcode",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\quitcode.png"
+  },
+  {
+    "name": "Leandolini",
+    "slug": "leandolini",
+    "source": "make",
+    "url": "http://localhost:3010/leandolini",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\leandolini.png"
+  },
+  {
+    "name": "The Penguin Group",
+    "slug": "the-penguin-group",
+    "source": "make",
+    "url": "http://localhost:3010/the-penguin-group",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\the-penguin-group.png"
+  },
+  {
+    "name": "Arketek",
+    "slug": "arketek",
+    "source": "make",
+    "url": "http://localhost:3010/arketek",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\arketek.png"
+  },
+  {
+    "name": "Flowbird Ltd",
+    "slug": "flowbird-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/flowbird-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\flowbird-ltd.png"
+  },
+  {
+    "name": "Opskings, Inc.",
+    "slug": "opskings-inc",
+    "source": "make",
+    "url": "http://localhost:3010/opskings-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\opskings-inc.png"
+  },
+  {
+    "name": "IOA Digital",
+    "slug": "ioa-digital",
+    "source": "make",
+    "url": "http://localhost:3010/ioa-digital",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ioa-digital.png"
+  },
+  {
+    "name": "Ethos Communication",
+    "slug": "ethos-communication",
+    "source": "make",
+    "url": "http://localhost:3010/ethos-communication",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ethos-communication.png"
+  },
+  {
+    "name": "Virtual PM",
+    "slug": "virtual-pm",
+    "source": "make",
+    "url": "http://localhost:3010/virtual-pm",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\virtual-pm.png"
+  },
+  {
+    "name": "Tilt-consulting",
+    "slug": "tilt-consulting",
+    "source": "make",
+    "url": "http://localhost:3010/tilt-consulting",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\tilt-consulting.png"
+  },
+  {
+    "name": "Callinetic BV",
+    "slug": "callinetic-bv",
+    "source": "make",
+    "url": "http://localhost:3010/callinetic-bv",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\callinetic-bv.png"
+  },
+  {
+    "name": "Workflowpower",
+    "slug": "workflowpower",
+    "source": "make",
+    "url": "http://localhost:3010/workflowpower",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\workflowpower.png"
+  },
+  {
+    "name": "FAR Capital Sdn Bhd",
+    "slug": "far-capital-sdn-bhd",
+    "source": "make",
+    "url": "http://localhost:3010/far-capital-sdn-bhd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\far-capital-sdn-bhd.png"
+  },
+  {
+    "name": "D-EFFCON",
+    "slug": "d-effcon",
+    "source": "make",
+    "url": "http://localhost:3010/d-effcon",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\d-effcon.png"
+  },
+  {
+    "name": "ProsperSpark",
+    "slug": "prosperspark",
+    "source": "make",
+    "url": "http://localhost:3010/prosperspark",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\prosperspark.png"
+  },
+  {
+    "name": "Giant Nerd Ltd",
+    "slug": "giant-nerd-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/giant-nerd-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\giant-nerd-ltd.png"
+  },
+  {
+    "name": "Techflow.ai",
+    "slug": "techflowai",
+    "source": "make",
+    "url": "http://localhost:3010/techflowai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\techflowai.png"
+  },
+  {
+    "name": "Seamless Automation",
+    "slug": "seamless-automation",
+    "source": "make",
+    "url": "http://localhost:3010/seamless-automation",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\seamless-automation.png"
+  },
+  {
+    "name": "Axelerant",
+    "slug": "axelerant",
+    "source": "make",
+    "url": "http://localhost:3010/axelerant",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\axelerant.png"
+  },
+  {
+    "name": "Advanced Workflows LTD",
+    "slug": "advanced-workflows-ltd",
+    "source": "make",
+    "url": "http://localhost:3010/advanced-workflows-ltd",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\advanced-workflows-ltd.png"
+  },
+  {
+    "name": "CRM Pros",
+    "slug": "crm-pros",
+    "source": "retell",
+    "url": "http://localhost:3010/crm-pros",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\crm-pros.png"
+  },
+  {
+    "name": "6omb Voice AI",
+    "slug": "6omb-voice-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/6omb-voice-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\6omb-voice-ai.png"
+  },
+  {
+    "name": "Sympana LLC",
+    "slug": "sympana-llc",
+    "source": "retell",
+    "url": "http://localhost:3010/sympana-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sympana-llc.png"
+  },
+  {
+    "name": "AI Growth Partners Inc.",
+    "slug": "ai-growth-partners-inc",
+    "source": "retell",
+    "url": "http://localhost:3010/ai-growth-partners-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ai-growth-partners-inc.png"
+  },
+  {
+    "name": "AYN Digital",
+    "slug": "ayn-digital",
+    "source": "retell",
+    "url": "http://localhost:3010/ayn-digital",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\ayn-digital.png"
+  },
+  {
+    "name": "Action2Callâ„¢",
+    "slug": "action2call",
+    "source": "retell",
+    "url": "http://localhost:3010/action2call",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\action2call.png"
+  },
+  {
+    "name": "Agent Studio",
+    "slug": "agent-studio",
+    "source": "retell",
+    "url": "http://localhost:3010/agent-studio",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\agent-studio.png"
+  },
+  {
+    "name": "Agento AI",
+    "slug": "agento-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/agento-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\agento-ai.png"
+  },
+  {
+    "name": "Ahead&amp; GmbH",
+    "slug": "ahead-and-amp-gmbh",
+    "source": "retell",
+    "url": "http://localhost:3010/ahead-and-amp-gmbh",
+    "ok": false,
+    "status": 404,
+    "error": "name_not_visible",
+    "screenshot": "crawl_screenshots\\ahead-and-amp-gmbh.png"
+  },
+  {
+    "name": "Aitoflo",
+    "slug": "aitoflo",
+    "source": "retell",
+    "url": "http://localhost:3010/aitoflo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\aitoflo.png"
+  },
+  {
+    "name": "AltimateAI",
+    "slug": "altimateai",
+    "source": "retell",
+    "url": "http://localhost:3010/altimateai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\altimateai.png"
+  },
+  {
+    "name": "Amplify Voice",
+    "slug": "amplify-voice",
+    "source": "retell",
+    "url": "http://localhost:3010/amplify-voice",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\amplify-voice.png"
+  },
+  {
+    "name": "Anyreach",
+    "slug": "anyreach",
+    "source": "retell",
+    "url": "http://localhost:3010/anyreach",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\anyreach.png"
+  },
+  {
+    "name": "Arose AI",
+    "slug": "arose-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/arose-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\arose-ai.png"
+  },
+  {
+    "name": "AutoRole AI",
+    "slug": "autorole-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/autorole-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\autorole-ai.png"
+  },
+  {
+    "name": "Automatez AI",
+    "slug": "automatez-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/automatez-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\automatez-ai.png"
+  },
+  {
+    "name": "Automatyz",
+    "slug": "automatyz",
+    "source": "retell",
+    "url": "http://localhost:3010/automatyz",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\automatyz.png"
+  },
+  {
+    "name": "Auvexa Agency",
+    "slug": "auvexa-agency",
+    "source": "retell",
+    "url": "http://localhost:3010/auvexa-agency",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\auvexa-agency.png"
+  },
+  {
+    "name": "Aveo Software",
+    "slug": "aveo-software",
+    "source": "retell",
+    "url": "http://localhost:3010/aveo-software",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\aveo-software.png"
+  },
+  {
+    "name": "Avodah Transformations",
+    "slug": "avodah-transformations",
+    "source": "retell",
+    "url": "http://localhost:3010/avodah-transformations",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\avodah-transformations.png"
+  },
+  {
+    "name": "Bonsai Labs",
+    "slug": "bonsai-labs",
+    "source": "retell",
+    "url": "http://localhost:3010/bonsai-labs",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\bonsai-labs.png"
+  },
+  {
+    "name": "Bosar Agency",
+    "slug": "bosar-agency",
+    "source": "retell",
+    "url": "http://localhost:3010/bosar-agency",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\bosar-agency.png"
+  },
+  {
+    "name": "BotMast",
+    "slug": "botmast",
+    "source": "retell",
+    "url": "http://localhost:3010/botmast",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\botmast.png"
+  },
+  {
+    "name": "BrightDockAI",
+    "slug": "brightdockai",
+    "source": "retell",
+    "url": "http://localhost:3010/brightdockai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\brightdockai.png"
+  },
+  {
+    "name": "CETDIGIT",
+    "slug": "cetdigit",
+    "source": "retell",
+    "url": "http://localhost:3010/cetdigit",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\cetdigit.png"
+  },
+  {
+    "name": "Craft Digital Ai",
+    "slug": "craft-digital-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/craft-digital-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\craft-digital-ai.png"
+  },
+  {
+    "name": "Creamdigital",
+    "slug": "creamdigital",
+    "source": "retell",
+    "url": "http://localhost:3010/creamdigital",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\creamdigital.png"
+  },
+  {
+    "name": "Data Leaders",
+    "slug": "data-leaders",
+    "source": "retell",
+    "url": "http://localhost:3010/data-leaders",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\data-leaders.png"
+  },
+  {
+    "name": "Deligence Technologies Inc.",
+    "slug": "deligence-technologies-inc",
+    "source": "retell",
+    "url": "http://localhost:3010/deligence-technologies-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\deligence-technologies-inc.png"
+  },
+  {
+    "name": "DentalFlow",
+    "slug": "dentalflow",
+    "source": "retell",
+    "url": "http://localhost:3010/dentalflow",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\dentalflow.png"
+  },
+  {
+    "name": "Dynamic Digital Solutions",
+    "slug": "dynamic-digital-solutions",
+    "source": "retell",
+    "url": "http://localhost:3010/dynamic-digital-solutions",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\dynamic-digital-solutions.png"
+  },
+  {
+    "name": "Envyro",
+    "slug": "envyro",
+    "source": "retell",
+    "url": "http://localhost:3010/envyro",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\envyro.png"
+  },
+  {
+    "name": "Flux Fortify",
+    "slug": "flux-fortify",
+    "source": "retell",
+    "url": "http://localhost:3010/flux-fortify",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\flux-fortify.png"
+  },
+  {
+    "name": "Full Sun AI",
+    "slug": "full-sun-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/full-sun-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\full-sun-ai.png"
+  },
+  {
+    "name": "INFLATE AI",
+    "slug": "inflate-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/inflate-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\inflate-ai.png"
+  },
+  {
+    "name": "Iffort AI",
+    "slug": "iffort-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/iffort-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\iffort-ai.png"
+  },
+  {
+    "name": "Inovasolutions",
+    "slug": "inovasolutions",
+    "source": "retell",
+    "url": "http://localhost:3010/inovasolutions",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\inovasolutions.png"
+  },
+  {
+    "name": "Integraticus",
+    "slug": "integraticus",
+    "source": "retell",
+    "url": "http://localhost:3010/integraticus",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\integraticus.png"
+  },
+  {
+    "name": "Kanzu Code Inc",
+    "slug": "kanzu-code-inc",
+    "source": "retell",
+    "url": "http://localhost:3010/kanzu-code-inc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\kanzu-code-inc.png"
+  },
+  {
+    "name": "Lincroft Digital",
+    "slug": "lincroft-digital",
+    "source": "retell",
+    "url": "http://localhost:3010/lincroft-digital",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\lincroft-digital.png"
+  },
+  {
+    "name": "Linklemon Agency",
+    "slug": "linklemon-agency",
+    "source": "retell",
+    "url": "http://localhost:3010/linklemon-agency",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\linklemon-agency.png"
+  },
+  {
+    "name": "Lunaris AI",
+    "slug": "lunaris-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/lunaris-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\lunaris-ai.png"
+  },
+  {
+    "name": "Melo Technology",
+    "slug": "melo-technology",
+    "source": "retell",
+    "url": "http://localhost:3010/melo-technology",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\melo-technology.png"
+  },
+  {
+    "name": "Mindcraft",
+    "slug": "mindcraft",
+    "source": "retell",
+    "url": "http://localhost:3010/mindcraft",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\mindcraft.png"
+  },
+  {
+    "name": "More Marketing Ideas",
+    "slug": "more-marketing-ideas",
+    "source": "retell",
+    "url": "http://localhost:3010/more-marketing-ideas",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\more-marketing-ideas.png"
+  },
+  {
+    "name": "NeuraFirst",
+    "slug": "neurafirst",
+    "source": "retell",
+    "url": "http://localhost:3010/neurafirst",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\neurafirst.png"
+  },
+  {
+    "name": "NumbTec",
+    "slug": "numbtec",
+    "source": "retell",
+    "url": "http://localhost:3010/numbtec",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\numbtec.png"
+  },
+  {
+    "name": "OriginX AI",
+    "slug": "originx-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/originx-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\originx-ai.png"
+  },
+  {
+    "name": "Purple Horizons LLC",
+    "slug": "purple-horizons-llc",
+    "source": "retell",
+    "url": "http://localhost:3010/purple-horizons-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\purple-horizons-llc.png"
+  },
+  {
+    "name": "Quensulting",
+    "slug": "quensulting",
+    "source": "retell",
+    "url": "http://localhost:3010/quensulting",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\quensulting.png"
+  },
+  {
+    "name": "Rapid Innovation",
+    "slug": "rapid-innovation",
+    "source": "retell",
+    "url": "http://localhost:3010/rapid-innovation",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\rapid-innovation.png"
+  },
+  {
+    "name": "Rose Wave",
+    "slug": "rose-wave",
+    "source": "retell",
+    "url": "http://localhost:3010/rose-wave",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\rose-wave.png"
+  },
+  {
+    "name": "Route",
+    "slug": "route",
+    "source": "retell",
+    "url": "http://localhost:3010/route",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\route.png"
+  },
+  {
+    "name": "Sentrovo",
+    "slug": "sentrovo",
+    "source": "retell",
+    "url": "http://localhost:3010/sentrovo",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sentrovo.png"
+  },
+  {
+    "name": "Sheerflow Automation",
+    "slug": "sheerflow-automation",
+    "source": "retell",
+    "url": "http://localhost:3010/sheerflow-automation",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sheerflow-automation.png"
+  },
+  {
+    "name": "Sidekiq",
+    "slug": "sidekiq",
+    "source": "retell",
+    "url": "http://localhost:3010/sidekiq",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sidekiq.png"
+  },
+  {
+    "name": "Sidetool",
+    "slug": "sidetool",
+    "source": "retell",
+    "url": "http://localhost:3010/sidetool",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\sidetool.png"
+  },
+  {
+    "name": "Son-ia",
+    "slug": "son-ia",
+    "source": "retell",
+    "url": "http://localhost:3010/son-ia",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\son-ia.png"
+  },
+  {
+    "name": "Summit AI",
+    "slug": "summit-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/summit-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\summit-ai.png"
+  },
+  {
+    "name": "TJM Labs",
+    "slug": "tjm-labs",
+    "source": "retell",
+    "url": "http://localhost:3010/tjm-labs",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\tjm-labs.png"
+  },
+  {
+    "name": "TONNIC AI Agency",
+    "slug": "tonnic-ai-agency",
+    "source": "retell",
+    "url": "http://localhost:3010/tonnic-ai-agency",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\tonnic-ai-agency.png"
+  },
+  {
+    "name": "TalkFlow AI",
+    "slug": "talkflow-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/talkflow-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\talkflow-ai.png"
+  },
+  {
+    "name": "Target Dial",
+    "slug": "target-dial",
+    "source": "retell",
+    "url": "http://localhost:3010/target-dial",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\target-dial.png"
+  },
+  {
+    "name": "Tasky AI",
+    "slug": "tasky-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/tasky-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\tasky-ai.png"
+  },
+  {
+    "name": "Telvia.io",
+    "slug": "telviaio",
+    "source": "retell",
+    "url": "http://localhost:3010/telviaio",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\telviaio.png"
+  },
+  {
+    "name": "Tollanis",
+    "slug": "tollanis",
+    "source": "retell",
+    "url": "http://localhost:3010/tollanis",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\tollanis.png"
+  },
+  {
+    "name": "TrendView GmbH",
+    "slug": "trendview-gmbh",
+    "source": "retell",
+    "url": "http://localhost:3010/trendview-gmbh",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\trendview-gmbh.png"
+  },
+  {
+    "name": "TripleStep Labs LLC",
+    "slug": "triplestep-labs-llc",
+    "source": "retell",
+    "url": "http://localhost:3010/triplestep-labs-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\triplestep-labs-llc.png"
+  },
+  {
+    "name": "Vaant.ai",
+    "slug": "vaantai",
+    "source": "retell",
+    "url": "http://localhost:3010/vaantai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\vaantai.png"
+  },
+  {
+    "name": "Verlat AI",
+    "slug": "verlat-ai",
+    "source": "retell",
+    "url": "http://localhost:3010/verlat-ai",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\verlat-ai.png"
+  },
+  {
+    "name": "Vexalink",
+    "slug": "vexalink",
+    "source": "retell",
+    "url": "http://localhost:3010/vexalink",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\vexalink.png"
+  },
+  {
+    "name": "Virstack LLC",
+    "slug": "virstack-llc",
+    "source": "retell",
+    "url": "http://localhost:3010/virstack-llc",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\virstack-llc.png"
+  },
+  {
+    "name": "VoIPstudio",
+    "slug": "voipstudio",
+    "source": "retell",
+    "url": "http://localhost:3010/voipstudio",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\voipstudio.png"
+  },
+  {
+    "name": "VoiceAssist Labs",
+    "slug": "voiceassist-labs",
+    "source": "retell",
+    "url": "http://localhost:3010/voiceassist-labs",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\voiceassist-labs.png"
+  },
+  {
+    "name": "Zapp Studio SL",
+    "slug": "zapp-studio-sl",
+    "source": "retell",
+    "url": "http://localhost:3010/zapp-studio-sl",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\zapp-studio-sl.png"
+  },
+  {
+    "name": "Zehaan",
+    "slug": "zehaan",
+    "source": "retell",
+    "url": "http://localhost:3010/zehaan",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\zehaan.png"
+  },
+  {
+    "name": "iSapien",
+    "slug": "isapien",
+    "source": "retell",
+    "url": "http://localhost:3010/isapien",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\isapien.png"
+  },
+  {
+    "name": "inDev42",
+    "slug": "indev42",
+    "source": "retell",
+    "url": "http://localhost:3010/indev42",
+    "ok": false,
+    "status": 200,
+    "error": "page_error",
+    "screenshot": "crawl_screenshots\\indev42.png"
+  }
+]
