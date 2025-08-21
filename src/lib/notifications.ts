@@ -33,8 +33,8 @@ export async function sendWorkflowNotification(payload: ClaimPayload): Promise<v
       })
     });
     console.log('✅ [VERCEL] Webhook sent successfully');
-  } catch (error: any) {
-    console.error('❌ [VERCEL] Webhook failed:', error.message);
+  } catch (error) {
+    console.error('❌ [VERCEL] Webhook failed:', error instanceof Error ? error.message : String(error));
   }
 }
 
@@ -95,16 +95,17 @@ export async function appendToGoogleSheet(payload: ClaimPayload): Promise<void> 
     });
     
     console.log('✅ [VERCEL] Successfully recorded claim in Google Sheets:', values[0]);
-  } catch (error: any) {
-    console.error('❌ [VERCEL] Google Sheets error:', {
-      message: error.message,
-      code: error.code,
-      status: error.status,
-      details: error.errors,
-      stack: error.stack
-    });
+  } catch (error) {
+    const errorDetails = {
+      message: error instanceof Error ? error.message : String(error),
+      code: error && typeof error === 'object' && 'code' in error ? error.code : undefined,
+      status: error && typeof error === 'object' && 'status' in error ? error.status : undefined,
+      details: error && typeof error === 'object' && 'errors' in error ? error.errors : undefined,
+      stack: error instanceof Error ? error.stack : undefined
+    };
+    console.error('❌ [VERCEL] Google Sheets error:', errorDetails);
     
     // Still throw so we know it failed
-    throw new Error(`Google Sheets API failed: ${error.message}`);
+    throw new Error(`Google Sheets API failed: ${error instanceof Error ? error.message : String(error)}`);
   }
 }

@@ -29,8 +29,10 @@ export async function POST(request: Request) {
 		})));
 
 		return NextResponse.json({ ok: true, results: results.map(r => r.status) })
-	} catch (error: any) {
-		console.error('❌ [VERCEL] API route error:', error.message, error.stack);
-		return NextResponse.json({ ok: false, error: 'server_error', details: error.message }, { status: 500 })
+	} catch (error) {
+		const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+		const errorStack = error instanceof Error ? error.stack : undefined;
+		console.error('❌ [VERCEL] API route error:', errorMessage, errorStack);
+		return NextResponse.json({ ok: false, error: 'server_error', details: errorMessage }, { status: 500 })
 	}
 }
