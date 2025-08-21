@@ -43,24 +43,8 @@ export function getCompaniesBySource(source: string): Company[] {
 export function transformCompanyData(company: Company) {
   // Allow per-slug screenshot overrides so details pages match homepage
   const slug = createCompanySlug(company.company_name)
-  const screenshotOverrides: Record<string, string> = {
-    'dashops': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/dashops_screenshot.png',
-    'apex-labs-ai': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/apex_labs_ai.png',
-    'metaloss-inc': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/metaloss.png',
-    'sunrise-leads': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/Sunrise_Leads_lindy_20250804_170641.png',
-    'crm-pros': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/crmpros.png',
-    'aitoflo': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/aitoflow.png',
-    'altimateai': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/altimate.png',
-    'envyro': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/envyro.png',
-    'mindcraft': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/mindcraft.png',
-    'neurafirst': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/neurafirst.png',
-    'originx-ai': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/originx.png',
-    'summit-ai': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/summit.png',
-    'vaantai': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/vaant.png',
-    'upscale-ninjas': 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/upscaleninjas.png',
-  }
-  const defaultScreenshot = company.screenshot ? `https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/${company.screenshot.replace(/\\/g, '/').replace('screenshots/', '')}` : 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/crm_pros_screenshot.png'
-  const finalScreenshot = screenshotOverrides[slug] || defaultScreenshot
+  // Just use the actual screenshot from R2 for everyone
+  const finalScreenshot = company.screenshot ? `https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/${company.screenshot.replace(/\\/g, '/').replace('screenshots/', '')}` : 'https://pub-04f37fd09b7749f4b6239ce1e82b0cea.r2.dev/backup_partner_ss.png'
   // Generate some default/placeholder data for missing fields
   const defaultOfferings = [
     'AI Automation Solutions',
@@ -99,11 +83,11 @@ export function transformCompanyData(company: Company) {
     location: 'Global', // Default since we don't have location data
     establishedDate: 'Partner since 2024', // Default
     website: company.company_website || '#',
-    logo: '/chrome.svg', // Default logo for now
-    tagline: `${company.company_name} - ${company.source.charAt(0).toUpperCase() + company.source.slice(1)} Partner`,
-    description: (descriptions as Record<string,string>)[slug] || `Professional ${company.source} automation and integration solutions`,
+    logo: '', // Will show company initial instead of Chrome icon
+    tagline: `${company.company_name} - Automation & Integration Solutions`,
+    description: (descriptions as Record<string,string>)[slug] || `Professional automation and integration solutions`,
     offerings,
-    about: `${company.company_name} is a certified ${company.source} partner specializing in automation and integration solutions. They help businesses streamline operations, improve efficiency, and scale their processes through innovative technology implementations.`,
+    about: `${company.company_name} specializes in automation and integration solutions. They help businesses streamline operations, improve efficiency, and scale their processes through innovative technology implementations.`,
     integrations: defaultIntegrations,
     screenshot: finalScreenshot, // Use override if present, else web path from dataset
     source: company.source

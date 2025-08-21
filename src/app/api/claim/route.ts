@@ -2,21 +2,35 @@ import { NextResponse } from 'next/server'
 import { appendToGoogleSheet, sendWorkflowNotification } from '@/lib/notifications'
 
 export async function POST(request: Request) {
+	console.log('🎯 [VERCEL] /api/claim called at', new Date().toISOString());
+	
 	try {
 		const data = await request.json()
 		const { name, email, companyName, companySlug, source, companyWebsite } = data || {}
 
+		console.log('📝 [VERCEL] Claim data received:', { name, email, companyName, companySlug, source, companyWebsite });
+
 		if (!name || !email || !companyName || !companySlug) {
+			console.error('❌ [VERCEL] Missing required fields');
 			return NextResponse.json({ ok: false, error: 'missing_fields' }, { status: 400 })
 		}
 
-		await Promise.all([
+		console.log('🚀 [VERCEL] Starting parallel processing...');
+		
+		const results = await Promise.allSettled([
 			sendWorkflowNotification({ name, email, companyName, companySlug, source, companyWebsite }),
 			appendToGoogleSheet({ name, email, companyName, companySlug, source, companyWebsite }),
-		])
+		]);
 
-		return NextResponse.json({ ok: true })
-	} catch {
-		return NextResponse.json({ ok: false, error: 'server_error' }, { status: 500 })
+		console.log('📊 [VERCEL] Processing results:', results.map((r, i) => ({
+			index: i,
+			status: r.status,
+			...(r.status === 'rejected' ? { reason: r.reason?.message } : {})
+		})));
+
+		return NextResponse.json({ ok: true, results: results.map(r => r.status) })
+	} catch (error: any) {
+		console.error('❌ [VERCEL] API route error:', error.message, error.stack);
+		return NextResponse.json({ ok: false, error: 'server_error', details: error.message }, { status: 500 })
 	}
 }

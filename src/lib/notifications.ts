@@ -11,8 +11,12 @@ export interface ClaimPayload {
 
 // Generic workflow webhook (Convex or similar)
 export async function sendWorkflowNotification(payload: ClaimPayload): Promise<void> {
+  console.log('🔗 [VERCEL] sendWorkflowNotification called');
+  
   const defaultUrl = 'https://mellow-elephant-424.convex.site/workflows?workflowId=zn7hk5ynrrqzb7mny9b63569ws7nq11d'
   const webhookUrl = process.env.WORKFLOW_WEBHOOK_URL || defaultUrl
+  
+  console.log('🌐 [VERCEL] Webhook URL:', webhookUrl);
   
   try {
     await fetch(webhookUrl, {
@@ -28,19 +32,29 @@ export async function sendWorkflowNotification(payload: ClaimPayload): Promise<v
         source: payload.source || ''
       })
     });
-  } catch (error) {
-    console.log('Webhook notification failed:', error);
+    console.log('✅ [VERCEL] Webhook sent successfully');
+  } catch (error: any) {
+    console.error('❌ [VERCEL] Webhook failed:', error.message);
   }
 }
 
 // Google Sheets foundation (optional, only runs if env vars are set)
 export async function appendToGoogleSheet(payload: ClaimPayload): Promise<void> {
+  console.log('🔍 [VERCEL] appendToGoogleSheet called with payload:', JSON.stringify(payload, null, 2));
+  
   const sheetsId = process.env.GOOGLE_SHEETS_ID;
   const clientEmail = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
   const privateKeyRaw = process.env.GOOGLE_SERVICE_ACCOUNT_KEY;
   
+  console.log('📋 [VERCEL] Environment check:', {
+    sheetsId: sheetsId ? `SET (${sheetsId.substring(0, 10)}...)` : 'MISSING',
+    clientEmail: clientEmail ? `SET (${clientEmail})` : 'MISSING', 
+    privateKey: privateKeyRaw ? `SET (length: ${privateKeyRaw.length})` : 'MISSING',
+    nodeEnv: process.env.NODE_ENV
+  });
+  
   if (!sheetsId || !clientEmail || !privateKeyRaw) {
-    console.log('Google Sheets integration skipped: Missing environment variables');
+    console.error('❌ [VERCEL] Google Sheets integration skipped: Missing environment variables');
     return;
   }
 
@@ -67,14 +81,30 @@ export async function appendToGoogleSheet(payload: ClaimPayload): Promise<void> 
   ]];
 
   try {
+    console.log('🚀 [VERCEL] Attempting to write to Google Sheets...', {
+      spreadsheetId: sheetsId,
+      range: 'A1:G1',
+      values: values
+    });
+    
     await sheets.spreadsheets.values.append({
       spreadsheetId: sheetsId,
       range: 'A1:G1',
       valueInputOption: 'RAW',
       requestBody: { values },
     });
-    console.log('✅ Claim recorded in Google Sheets');
-  } catch (error) {
-    console.log('Google Sheets error:', error);
+    
+    console.log('✅ [VERCEL] Successfully recorded claim in Google Sheets:', values[0]);
+  } catch (error: any) {
+    console.error('❌ [VERCEL] Google Sheets error:', {
+      message: error.message,
+      code: error.code,
+      status: error.status,
+      details: error.errors,
+      stack: error.stack
+    });
+    
+    // Still throw so we know it failed
+    throw new Error(`Google Sheets API failed: ${error.message}`);
   }
 }

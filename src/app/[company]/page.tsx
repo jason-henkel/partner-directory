@@ -23,8 +23,8 @@ export async function generateMetadata({ params }: CompanyPageProps): Promise<Me
   }
 
   return {
-    title: `${company.company_name} - ${company.source.charAt(0).toUpperCase() + company.source.slice(1)} Partner`,
-    description: `${company.company_name} specializes in ${company.source} automation and integration solutions, helping businesses transform with innovative technology.`,
+    title: `${company.company_name} - Automation & Integration Solutions`,
+    description: `${company.company_name} specializes in automation and integration solutions, helping businesses transform with innovative technology.`,
   }
 }
 

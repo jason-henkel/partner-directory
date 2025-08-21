@@ -164,7 +164,7 @@ export default function CompanyPageClient({ companyData }: CompanyPageClientProp
                 <Link href={companyData.website} target="_blank" className="text-gray-600 hover:text-gray-900 transition-colors underline">
                   Visit Website
                 </Link>
-                <Link href="#learn-more" className="bg-black text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-colors text-sm font-medium">
+                <Link href="https://www.conduit.ai/agency?utm_source=email&utm_medium=instantly&utm_campaign=claim_your_page" target="_blank" className="bg-black text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-colors text-sm font-medium">
                   Learn More
                 </Link>
               </div>
@@ -180,7 +180,13 @@ export default function CompanyPageClient({ companyData }: CompanyPageClientProp
               {/* Logo and Name */}
               <div className="text-center mb-6 sm:mb-8">
                 <div className="w-16 h-16 sm:w-20 sm:h-20 mx-auto mb-4 bg-black rounded-2xl flex items-center justify-center p-3 sm:p-4">
-                  <Image src="/chrome.svg" alt="Chrome" width={48} height={48} />
+                  {companyData.logo ? (
+                    <Image src={companyData.logo} alt={`${companyData.name} logo`} width={48} height={48} className="rounded-lg" />
+                  ) : (
+                    <div className="w-full h-full bg-gradient-to-br from-gray-600 to-gray-800 rounded-lg flex items-center justify-center text-white font-bold text-lg">
+                      {companyData.name.charAt(0).toUpperCase()}
+                    </div>
+                  )}
                 </div>
                 <h2 className="text-lg sm:text-xl font-semibold text-gray-900 mb-1">{companyData.name}</h2>
                 <p className="text-gray-500 text-sm sm:text-sm flex items-center justify-center gap-1">
